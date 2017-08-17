@@ -1,4 +1,5 @@
 from numpy import *
+
 def t(i,o,m,w):
  for j in range(m):
   p=1/(1+exp(-(dot(i,w))))
