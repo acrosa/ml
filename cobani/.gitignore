@@ -1,0 +1,5 @@
+images/all
+images/labeled
+__pycache__
+.DS_Store
+.cobani
